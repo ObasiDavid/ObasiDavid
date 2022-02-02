@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ObasiDavid
+- 👋 Hi, I’m ObasiDavid
 - 👀 I’m interested in creating new tech project that solves real life problems.
 - 🌱 I’m currently learning Data Analytics and also inproving my Software development skills.
 - 💞️ I’m looking to collaborate on ...
